@@ -6,7 +6,7 @@ namespace CourseProjectMatriz
     {
         static void Main(string[] args)
         {
-            Console.Write("Digite o tamanho da matriz: ");
+            Console.Write("Digite o tamanho da matriz : ");
 
             string[] tamanho = Console.ReadLine().Split(' ');
 
